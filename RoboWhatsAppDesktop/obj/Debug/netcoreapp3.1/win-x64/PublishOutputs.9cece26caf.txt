@@ -1,0 +1,6 @@
+C:\Users\mateu\Documents\Robo Projeto Raizes\RoboWhatsAppDesktop.exe
+C:\Users\mateu\Documents\Robo Projeto Raizes\RoboWhatsAppDesktop.dll
+C:\Users\mateu\Documents\Robo Projeto Raizes\RoboWhatsAppDesktop.deps.json
+C:\Users\mateu\Documents\Robo Projeto Raizes\RoboWhatsAppDesktop.runtimeconfig.json
+C:\Users\mateu\Documents\Robo Projeto Raizes\RoboWhatsAppDesktop.pdb
+C:\Users\mateu\Documents\Robo Projeto Raizes\WindowsInput.dll

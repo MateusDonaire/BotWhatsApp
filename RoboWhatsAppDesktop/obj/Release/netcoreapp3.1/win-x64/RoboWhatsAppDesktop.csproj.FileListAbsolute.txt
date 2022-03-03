@@ -1,0 +1,14 @@
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.exe
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.deps.json
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.runtimeconfig.json
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.dll
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.pdb
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\bin\Release\netcoreapp3.1\win-x64\WindowsInput.dll
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.AssemblyInfo.cs
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.dll
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.pdb
+C:\Users\mateu\source\repos\RoboWhatsAppDesktop\RoboWhatsAppDesktop\obj\Release\netcoreapp3.1\win-x64\RoboWhatsAppDesktop.genruntimeconfig.cache
