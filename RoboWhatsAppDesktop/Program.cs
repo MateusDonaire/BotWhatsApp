@@ -38,14 +38,14 @@ namespace RoboWhatsAppDesktop
             {
                 Console.WriteLine("Finalizando processo...");
                 Thread.Sleep(2000);
-                LeftMouseClick(1348, 12);
+                LeftMouseClick(1897, 13);
             }
         }
 
         private static void AbrirWhatsAppDesktop()
         {
             Console.WriteLine("Abrindo WhatsApp...");
-            System.Diagnostics.Process.Start(@"C:\Users\mateu\AppData\Local\WhatsApp\WhatsApp.exe");
+            System.Diagnostics.Process.Start(@"C:\Users\GAMER\AppData\Local\WhatsApp\WhatsApp.exe");
             Console.WriteLine("Aguardando tempo de sincronização: O processo já irá ser iniciado...");
             Thread.Sleep(60000);
         }
@@ -58,9 +58,9 @@ namespace RoboWhatsAppDesktop
             SelecionarPesquisa();
 
             inputSimulator.Keyboard.TextEntry("Eu");
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
             inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
-            Thread.Sleep(2000);
+            Thread.Sleep(1000);
 
             if(segundos >= 60)
             {
@@ -71,7 +71,7 @@ namespace RoboWhatsAppDesktop
             else
                 inputSimulator.Keyboard.TextEntry($"*{data}* - *Mateus*, consegui enviar as imagens em *{segundos} segundos*!!! Boa noite =D");
 
-            Thread.Sleep(2000);
+            Thread.Sleep(500);
             inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
         }
 
@@ -104,16 +104,16 @@ namespace RoboWhatsAppDesktop
         private static void FormatarCaminhoDaImagem(Program program, string planoLeitura, out string diaLeitura, out string path, out string fullPath)
         {
             diaLeitura = program.FormatarDiaLeitura();
-            path = @"C:\Users\mateu\Pictures\PlanoLeitura\" + planoLeitura + @"\";
+            path = @"C:\Users\GAMER\Pictures\PlanoLeitura\" + planoLeitura + @"\";
             fullPath = path + diaLeitura;
         }
 
         private static void SelecionarImagem()
         {
             Console.WriteLine("Selecionando imagem...");
-            LeftMouseClick(481, 691);
+            LeftMouseClick(649, 1009);
             Thread.Sleep(2000);
-            LeftMouseClick(485, 623);
+            LeftMouseClick(646, 948);
             Thread.Sleep(2000);
         }
 
@@ -121,9 +121,9 @@ namespace RoboWhatsAppDesktop
         {
             Console.WriteLine("Iniciado " + (i + 1) + "º envio: Grupo " + planoLeitura);
             inputSimulator.Keyboard.TextEntry(planoLeitura);
-            Thread.Sleep(2000);
+            Thread.Sleep(500);
             inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
-            Thread.Sleep(2000);
+            Thread.Sleep(500);
         }
 
         private static void EnviarImagem(InputSimulator inputSimulator, string diaLeitura, string path, string fullPath)
@@ -135,16 +135,17 @@ namespace RoboWhatsAppDesktop
             inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
 
             Console.WriteLine("Enviando imagem no grupo...");
-            Thread.Sleep(3000);
+            Thread.Sleep(500);
             inputSimulator.Keyboard.KeyPress(VirtualKeyCode.RETURN);
+            //inputSimulator.Keyboard.KeyPress(VirtualKeyCode.ESCAPE);
             Console.WriteLine("IMAGEM ENVIADA!");
         }
 
         private static void SelecionarPesquisa()
         {
-            Thread.Sleep(2000);
-            LeftMouseClick(203, 109);
-            Thread.Sleep(2000);
+            Thread.Sleep(500);
+            LeftMouseClick(320, 108);
+            Thread.Sleep(500);
         }
 
         private static void EnviarImagensNoGrupoDeMaterial()

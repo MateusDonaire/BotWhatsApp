@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4Amxm1343WgWZNjrKIknyt0cLKf/BDlXcDePr1HHshntzlPK+QfAE5/k7UGMJ+V/nDY5Fl/Ps4Tb/EQEw6sDhA==",
+  "dgSpecHash": "nwMAQWOZpX4iBonVGCYWpXTpk+c3FTirc4MEhJfgMWMp2GfCfSaWL2BNR5u0oUwuViX/e3KQ4+V03+c4uNOiJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
+  "projectFilePath": "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mateu\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
+    "C:\\Users\\GAMER\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
   ],
   "logs": [
     {

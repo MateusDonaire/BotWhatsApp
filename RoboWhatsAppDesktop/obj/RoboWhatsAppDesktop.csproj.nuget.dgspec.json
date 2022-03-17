@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj": {}
+    "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj": {
+    "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
+        "projectUniqueName": "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
         "projectName": "RoboWhatsAppDesktop",
-        "projectPath": "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\source\\repos\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop\\obj\\",
+        "projectPath": "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\RoboWhatsAppDesktop.csproj",
+        "packagesPath": "C:\\Users\\GAMER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GAMER\\Documents\\Git\\MateusDonaire\\BotWhatsApp\\RoboWhatsAppDesktop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GAMER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
